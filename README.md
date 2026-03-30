@@ -2,6 +2,10 @@
 <h3 align="center">Software Engineering Student | Future Data Scientist 🚀</h3>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/Abdul-Samad43" width="150" style="border-radius:50%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Developer;Data+Science+Learner;Always+Learning&center=true&width=500&height=50">
 </p>
 
@@ -64,8 +68,15 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-samad-95541a388"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:Abdulsamadlaghari01email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/abdul-samad-95541a388">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:abdulsamadlaghari01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
+
+## 🔥 Quote  
+<p align="center">"Always learning, always growing." 🚀</p>
