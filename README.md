@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
-<h3 align="center">Software Engineering Student | Future Data Scientist 🚀</h3>
+<table>
+<tr>
+<td width="40%">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Abdul-Samad43" width="150" style="border-radius:50%" />
+<img src="https://avatars.githubusercontent.com/Abdul-Samad43" width="100%" />
+
+</td>
+
+<td width="60%">
+
+<h1>Hi 👋, I'm Abdul Samad</h1>
+<h3>Software Engineering Student | Future Data Scientist 🚀</h3>
+
+<p>
+AI Enthusiast • Python Developer • Data Science Learner • Always Learning
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Developer;Data+Science+Learner;Always+Learning&center=true&width=500&height=50">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,8 +42,6 @@
 ### 🎮 Python Mini Projects  
 - 🎲 [Dice Rolling Game](https://github.com/Abdul-Samad43/Dice_Rolling_Game)  
 
----
-
 ### 📊 Data Analysis & EDA Projects  
 - 📈 [NumPy & Pandas Project](https://github.com/Abdul-Samad43/numpy_pandas_project)  
 - 📊 [Student Performance Analyzer](https://github.com/Abdul-Samad43/Student_Performance_Analyzer)  
@@ -43,16 +51,12 @@
 - 📉 [Customer Churn EDA](https://github.com/Abdul-Samad43/Churn-Project-EDA)  
 - 📊 [Matplotlib Project](https://github.com/Abdul-Samad43/matplotlib_project)  
 
----
-
 ### 💻 Java Projects  
 - 🏏 [Cricket Management System](https://github.com/Abdul-Samad43/CricketManagementSystem)  
 - 📚 [Library Management System](https://github.com/Abdul-Samad43/Librarymanagementsystem)  
 
----
-
 ### 🤖 Machine Learning / Apps  
-- 🏠 [House Rent Prediction App (Streamlit)](https://github.com/Abdul-Samad43/house-rent-streamlit-app)  
+- 🏠 [House Rent Prediction App](https://github.com/Abdul-Samad43/house-rent-streamlit-app)  
 
 ---
 
@@ -60,7 +64,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Samad43&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -75,8 +78,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
----
-
-## 🔥 Quote  
-<p align="center">"Always learning, always growing." 🚀</p>
