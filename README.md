@@ -31,11 +31,24 @@ Expert Programmer • Data Scientist • AI/ML Engineer • Frontened Developer
 
 ## 🚀 Skills & Tools  
 
+## 🚀 Skills & Tools  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql,numpy,pandas,matplotlib,sickitlearn,seaborn,keras,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge" />
+</p>
 
 ## 📂 Projects  
 
