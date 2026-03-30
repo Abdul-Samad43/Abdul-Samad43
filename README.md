@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
-<h3 align="center">Software Engineering Student | Future Data Scientist</h3>
+<h3 align="center">Software Engineering Student | Future Data Scientist 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Developer;Future+Data+Scientist&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Developer;Data+Science+Learner;Always+Learning&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Software Engineering Student at MUET  
-- 🤖 Interested in AI & Data Science  
-- 📚 Currently learning Python, Java & SQL  
+- 🤖 Passionate about AI, Data Science & Machine Learning  
+- 📚 Skilled in Python, Java, SQL  
 - 🚀 Goal: Become a Data Scientist  
 
 ---
@@ -24,9 +24,31 @@
 ---
 
 ## 📂 Projects  
-- 🏠 House Price Prediction (Machine Learning)  
-- 💻 Java GUI Management System  
-- 📊 Data Analysis Projects (Coming Soon)  
+
+### 🎮 Python Mini Projects  
+- 🎲 [Dice Rolling Game](https://github.com/Abdul-Samad43/Dice_Rolling_Game)  
+
+---
+
+### 📊 Data Analysis & EDA Projects  
+- 📈 [NumPy & Pandas Project](https://github.com/Abdul-Samad43/numpy_pandas_project)  
+- 📊 [Student Performance Analyzer](https://github.com/Abdul-Samad43/Student_Performance_Analyzer)  
+- 🛒 [Black Friday Dataset EDA](https://github.com/Abdul-Samad43/Black-Friday-Dataset-EDA)  
+- 🍽️ [Zomato Dataset Analysis](https://github.com/Abdul-Samad43/Zomato-Dataset-)  
+- 🎬 [Netflix Data Visualization](https://github.com/Abdul-Samad43/netflix_data_visualization)  
+- 📉 [Customer Churn EDA](https://github.com/Abdul-Samad43/Churn-Project-EDA)  
+- 📊 [Matplotlib Project](https://github.com/Abdul-Samad43/matplotlib_project)  
+
+---
+
+### 💻 Java Projects  
+- 🏏 [Cricket Management System](https://github.com/Abdul-Samad43/CricketManagementSystem)  
+- 📚 [Library Management System](https://github.com/Abdul-Samad43/Librarymanagementsystem)  
+
+---
+
+### 🤖 Machine Learning / Apps  
+- 🏠 [House Rent Prediction App (Streamlit)](https://github.com/Abdul-Samad43/house-rent-streamlit-app)  
 
 ---
 
@@ -43,8 +65,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-samad-95541a388"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:Abdulsamadlaghari01@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:Abdulsamadlaghari01email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
-
