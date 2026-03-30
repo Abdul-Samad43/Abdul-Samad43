@@ -1,60 +1,50 @@
-# Hi 👋, I'm Abdul Samad  
+<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
+<h3 align="center">Software Engineering Student | Future Data Scientist</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Future+Data+Scientist;AI+Enthusiast;Always+Learning&center=true&width=500&height=50)
-
----
-
-## 🔹 About Me  
-I am Abdul Samad, a Software Engineering student with a strong interest in Artificial Intelligence and Data Science. I am passionate about learning new technologies and building real-world projects.
-
-Currently, I am improving my skills in Python, Java, and SQL while exploring Machine Learning and Data Analysis. I enjoy problem-solving and continuously work on growing my technical and professional abilities.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Developer;Future+Data+Scientist&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🔹 Skills  
-
-### 💻 Programming  
-- Python  
-- Java  
-
-### 🗄️ Database  
-- SQL  
-
-### 🌐 Web  
-- HTML, CSS (Learning)  
-
-### 🛠️ Tools  
-- Git & GitHub  
-- VS Code  
-- Canva  
+## 👨‍💻 About Me
+- 🎓 Software Engineering Student at MUET  
+- 🤖 Interested in AI & Data Science  
+- 📚 Currently learning Python, Java & SQL  
+- 🚀 Goal: Become a Data Scientist  
 
 ---
 
-## 🔹 Projects  
-- 🏠 House Price Prediction (Machine Learning Project)  
+## 🚀 Skills & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📂 Projects  
+- 🏠 House Price Prediction (Machine Learning)  
 - 💻 Java GUI Management System  
 - 📊 Data Analysis Projects (Coming Soon)  
 
 ---
 
-## 🔹 Experience  
-- 🎯 Marketing Manager at GDG MUET  
-- 🤝 Volunteer Experience  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Samad43&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔹 GitHub Stats  
+## 🤝 Connect With Me  
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Samad43&layout=compact&theme=tokyonight)
-
----
-
-## 🔹 Connect With Me  
-
-- 📧 Email: Abdulsamadlaghari01@gmail.com  
-- 💼 LinkedIn:https://www.linkedin.com/in/abdul-samad-95541a388
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-samad-95541a388"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:Abdulsamadlaghari01@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
