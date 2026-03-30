@@ -9,10 +9,10 @@
 <td width="60%">
 
 <h1>Hi 👋, I'm Abdul Samad</h1>
-<h3>Software Engineering Student | Future Data Scientist 🚀</h3>
+<h3>Software Engineering Student</h3>
 
 <p>
-AI Enthusiast • Python Developer • Data Science Learner • Always Learning
+Expert Programmer • Data Scientist • AI/ML Engineer • Frontened Developer
 </p>
 
 </td>
@@ -22,17 +22,17 @@ AI Enthusiast • Python Developer • Data Science Learner • Always Learning
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Software Engineering Student at MUET  
+- 🎓 Software Engineering Student   
 - 🤖 Passionate about AI, Data Science & Machine Learning  
-- 📚 Skilled in Python, Java, SQL  
-- 🚀 Goal: Become a Data Scientist  
+- 📚 Skilled in Python, Java, SQL, Machine Learning, Deep learning
+ 
 
 ---
 
 ## 🚀 Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql,numpy,pandas,matplotlib,sickitlearn,seaborn,keras,pytorch" />
 </p>
 
 ---
