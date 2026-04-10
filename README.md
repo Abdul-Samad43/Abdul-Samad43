@@ -1,93 +1,59 @@
-<table>
-<tr>
-<td width="40%">
+# Hi, I'm Abdul Samad👋
 
-<img src="https://avatars.githubusercontent.com/Abdul-Samad43" width="100%" />
-
-</td>
-
-<td width="60%">
-
-<h1>Hi 👋, I'm Abdul Samad</h1>
-<h3>Software Engineering Student</h3>
-
-<p>
-Expert Programmer • Data Scientist • AI/ML Engineer • Frontened Developer
-</p>
-
-</td>
-</tr>
-</table>
+💡 Tech Enthusiast | Aspiring Data Science | AI/ML Engineer | Software Engineering Student
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Software Engineering Student   
-- 🤖 Passionate about AI, Data Science & Machine Learning  
-- 📚 Skilled in Python, Java, SQL, Machine Learning, Deep learning
- 
+I’m a dedicated *Software Engineering student* with a passion for building practical solutions and learning new technologies.  
+I actively participate in hackathons and enjoy working in collaborative teams to deliver efficient and impactful projects.  
+I’m committed, reliable, and always eager to take on challenges.
+
+- 🌱 Learning: Python | Machine Learning | Deep Learning | SQL | Java  
+- 🎯 Goal: To become a skilled Data Scientist and a well-rounded Software Engineer  
+- 🤝 Open to: Hackathons, software projects, and mentorship opportunities  
 
 ---
 
-## 🚀 Skills & Tools  
-
-## 🚀 Skills & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge" />
-</p>
-
-## 📂 Projects  
-
-### 🎮 Python Mini Projects  
-- 🎲 [Dice Rolling Game](https://github.com/Abdul-Samad43/Dice_Rolling_Game)  
-
-### 📊 Data Analysis & EDA Projects  
-- 📈 [NumPy & Pandas Project](https://github.com/Abdul-Samad43/numpy_pandas_project)  
-- 📊 [Student Performance Analyzer](https://github.com/Abdul-Samad43/Student_Performance_Analyzer)  
-- 🛒 [Black Friday Dataset EDA](https://github.com/Abdul-Samad43/Black-Friday-Dataset-EDA)  
-- 🍽️ [Zomato Dataset Analysis](https://github.com/Abdul-Samad43/Zomato-Dataset-)  
-- 🎬 [Netflix Data Visualization](https://github.com/Abdul-Samad43/netflix_data_visualization)  
-- 📉 [Customer Churn EDA](https://github.com/Abdul-Samad43/Churn-Project-EDA)  
-- 📊 [Matplotlib Project](https://github.com/Abdul-Samad43/matplotlib_project)  
-
-### 💻 Java Projects  
-- 🏏 [Cricket Management System](https://github.com/Abdul-Samad43/CricketManagementSystem)  
-- 📚 [Library Management System](https://github.com/Abdul-Samad43/Librarymanagementsystem)  
-
-### 🤖 Machine Learning / Apps  
-- 🏠 [House Rent Prediction App](https://github.com/Abdul-Samad43/house-rent-streamlit-app)  
+## 🛠️ Skills
+- *Languages:* Python, Java, C++,  
+- *Tools & IDEs:* Anaconda, Jupyter Notebook, Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, C++ Builder  
+- *Core Areas:*  
+  - GUI Development (Java Swing, C++ Builder)  
+  - Problem Solving & Data Structures  
+  - Databases (SQL - Advanced)  
+  - Web Fundamentals (HTML, CSS)  
+  - Machine Learning (Scikit-learn)  
+  - Deep Learning    
 
 ---
 
-## 📊 GitHub Stats  
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight" />
-</p>
+- *Dice Rolling Game (Python)* — Simple interactive game using random module to simulate dice rolls.  
+- *NumPy & Pandas Project* — Data manipulation and analysis using NumPy and Pandas libraries.  
+- *Student Performance Analyzer* — Python-based project to analyze and visualize student academic performance.  
+- *Cricket Management System* — Console/GUI-based system to manage cricket teams, players, and match records.  
+- *House Rent Streamlit App* — Web app built with Streamlit for predicting and exploring house rent data.  
+- *Churn Prediction EDA Project* — Exploratory Data Analysis on customer churn dataset to find patterns and insights.  
+- *Black Friday Dataset EDA* — Data analysis project exploring customer purchase behavior during Black Friday sales.  
+- *Zomato Dataset Analysis* — Data visualization and insights from restaurant data using Python libraries.  
+- *Netflix Data Visualization* — Visual analytics of Netflix dataset to explore content trends and categories.  
+- *Matplotlib Project* — Data visualization project using Matplotlib for charts and graphs.  
+- *Library Management System* — Console-based system to manage books, students, and issuing records.  
 
 ---
 
-## 🤝 Connect With Me  
+## ✅ Why I’m a reliable teammate
+- Strong foundation in *Software Engineering principles*  
+- Good understanding of *teamwork & version control (GitHub)*  
+- Quick learner, problem solver, and deadline-oriented  
+- Focused on writing clean and maintainable code  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-samad-95541a388">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:abdulsamadlaghari01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+---
+
+## 📫 Contact
+- Email: abdulsamadlaghari01@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/abdul-samad-95541a388
+- GitHub: https://github.com/Abdul-Samad43 
+
