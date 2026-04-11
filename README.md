@@ -4,19 +4,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Samad43&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Samad43&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 I’m a dedicated **Software Engineering student** with a passion for building practical solutions and learning new technologies.  
 I actively participate in hackathons and enjoy working in collaborative teams to deliver efficient and impactful projects.  
@@ -29,15 +16,24 @@ I’m committed, reliable, and always eager to take on challenges.
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, Java, C++  
-- **Tools & IDEs:** Anaconda, Jupyter Notebook, Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, C++ Builder  
-- **Core Areas:**  
-  - GUI Development (Java Swing, C++ Builder)  
-  - Problem Solving & Data Structures  
-  - Databases (SQL - Advanced)  
-  - Web Fundamentals (HTML, CSS)  
-  - Machine Learning (Scikit-learn)  
-  - Deep Learning  
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
+
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+### 📚 Core Areas
+- GUI Development (Java Swing, C++ Builder)  
+- Problem Solving & Data Structures  
+- Databases (SQL - Advanced)  
+- Web Fundamentals (HTML, CSS)  
+- Machine Learning (Scikit-learn)  
+- Deep Learning  
 
 ---
 
@@ -69,3 +65,16 @@ I’m committed, reliable, and always eager to take on challenges.
 - 📧 Email: abdulsamadlaghari01@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/abdul-samad-95541a388  
 - 💻 GitHub: https://github.com/Abdul-Samad43  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Samad43&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Samad43&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
