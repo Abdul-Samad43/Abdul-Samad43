@@ -59,11 +59,14 @@ modern LLM frameworks, retrieval systems and autonomous agent workflows.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&custom_title=GitHub%20Stats"
-  alt="Abdul Samad GitHub Stats"
-  width="520"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Samad43&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="GitHub Stats"
+  width="500"
 />
 
+</div>
+
+---
 </div>
 
 ---
