@@ -54,40 +54,19 @@ modern LLM frameworks, retrieval systems and autonomous agent workflows.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Samad43&theme=tokyonight&name=Abdul%20Samad&animation=fade"
-  alt="Abdul Samad GitHub Profile Details"
-  width="780"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdul-Samad43&theme=tokyonight&animation=rise"
-  alt="Abdul Samad GitHub Statistics"
-  width="380"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdul-Samad43&theme=tokyonight&animation=draw"
-  alt="Abdul Samad Top Languages"
-  width="380"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Samad43&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"
-  alt="Abdul Samad GitHub Contribution Streak"
-  width="500"
+  src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad43&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&custom_title=GitHub%20Stats"
+  alt="Abdul Samad GitHub Stats"
+  width="520"
 />
 
 </div>
 
+---
 ---
 
 ## 🤝 Connect With Me
