@@ -1,33 +1,16 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Samad+%F0%9F%91%8B;AI+Engineer+%26+Python+Developer;Building+AI+Apps+%26+LLM+Systems;Groq+%7C+Streamlit+%7C+Scikit-learn)](https://git.io/typing-svg)
-</div>
-
----
-
-## 🧠 About Me
-
-- 🔭 I'm currently working on **AI Applications & LLM-powered Systems**
-- 🌱 I'm currently learning **Prompt Engineering, RAG & AI Agents**
-- 💬 Ask me about **Python, Machine Learning, LLMs, Streamlit, Groq API**
-- 📍 Based in **Khairpur, Sindh, Pakistan**
-- ⚡ Fun fact: The entire internet is retrained into ChatGPT — yet it still hallucinates
-
----
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,streamlit,mysql,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,opencv,mysql,streamlit,git,github,docker&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logo=graphql&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3-6E40C9?style=for-the-badge&logo=meta&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 ---
 
@@ -47,10 +30,10 @@
 
 ## 🚀 What I'm Building
 
-- 🤖 **AI Chatbot** — conversational AI powered by LLaMA 3.3 via Groq
-- 📄 **AI Resume Screener** — intelligent hiring tool with TF-IDF & LLM analysis
-- 📚 **RAG Pipelines** — retrieval-augmented generation *(coming soon)*
-- 🧠 **AI Agents** — autonomous task-solving systems *(coming soon)*
+- 🤖 **AI Agents** — autonomous systems using LangChain & LangGraph
+- 📚 **RAG Pipelines** — retrieval-augmented generation with FAISS & vector DBs
+- ⚡ **FastAPI Backends** — production-ready APIs for AI-powered apps
+- 🖥️ **Streamlit UIs** — clean frontends for ML and AI demos
 
 ---
 
@@ -59,8 +42,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Samad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-samad-95541a388)
-[![Gmail](https://img.shields.io/badge/Gmail-Abdulsamadlaghari01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdulsamadlaghari01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdul--Samad43-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Samad43)
+[![Gmail](https://img.shields.io/badge/Gmail-abdulsamadlaghari01@790%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamadlaghari01@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-samad-ai-engineer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/samad-ai-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdul-Samad43-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Samad43)
 
 </div>
 
@@ -68,13 +52,13 @@
 
 ## ⚡ Fun Fact
 
-> **The first AI chatbot, ELIZA, was built in 1966 — before the internet even existed.**
-> Today, with LLMs and RAG, we're not just simulating conversation — we're building systems that *reason, retrieve, and act*. 🚀
+> ***AI has evolved from simple rule-based conversations to intelligent systems capable of understanding context, retrieving knowledge, and taking meaningful actions.***
+Today, LLMs, RAG, and AI agents are transforming how we build, automate, and solve real-world problems. 🚀
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it — one agent at a time."*
+"The future of AI is not only predicted — it is engineered, one intelligent system at a time."
 
 </div>
