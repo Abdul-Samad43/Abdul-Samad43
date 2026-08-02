@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Prompt Engineering, RAG & AI Agents**
 - 💬 Ask me about **Python, Machine Learning, LLMs, Streamlit, Groq API**
 - 📍 Based in **Khairpur, Sindh, Pakistan**
-- ⚡ Fun fact: A machine can't think — until you give it the right prompt
+- ⚡ Fun fact: The entire internet is retrained into ChatGPT — yet it still hallucinates
 
 ---
 
@@ -18,13 +18,13 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,streamlit,mysql,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,streamlit,mysql,git,github&theme=dark)](https://skillicons.dev)
 
 <br/>
 
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3-6E40C9?style=for-the-badge&logo=meta&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3-6E40C9?style=for-the-badge&logo=meta&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Samad43&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Samad43&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="500"/>
 
 <br/><br/>
 
@@ -69,12 +69,12 @@
 ## ⚡ Fun Fact
 
 > **The first AI chatbot, ELIZA, was built in 1966 — before the internet even existed.**
-> Today, with LLMs and modern APIs, we're not just simulating conversation — we're building systems that *reason, analyze, and act*. 🚀
+> Today, with LLMs and RAG, we're not just simulating conversation — we're building systems that *reason, retrieve, and act*. 🚀
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it — one AI app at a time."*
+*"The best way to predict the future is to build it — one agent at a time."*
 
 </div>
