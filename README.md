@@ -1,17 +1,5 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:6E40C9&height=190&section=header&text=Hi%20there%2C%20I%27m%20Abdul%20Samad%20%F0%9F%91%8B&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38"
-  alt="Abdul Samad GitHub Profile Header"
-/>
-<img
-  src="https://github.com/Abdul-Samad43.png"
-  width="150"
-  alt="Abdul Samad Profile Picture"
-/>
-
-<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+LLM+Developer;Building+Intelligent+AI+Agents;Developing+Production-Ready+RAG+Systems;LangChain+%7C+LangGraph+%7C+FastAPI)](https://git.io/typing-svg)
 
