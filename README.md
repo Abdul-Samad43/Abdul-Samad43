@@ -54,13 +54,15 @@ modern LLM frameworks, retrieval systems and autonomous agent workflows.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/Abdul-Samad43?style=for-the-badge&logo=github&label=Followers&color=6E40C9)](https://github.com/Abdul-Samad43?tab=followers)
-
-[![GitHub Stars](https://img.shields.io/github/stars/Abdul-Samad43?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=58A6FF)](https://github.com/Abdul-Samad43?tab=repositories)
+<img
+  src="https://streak-stats.demolab.com?user=Abdul-Samad43&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"
+  alt="Abdul Samad GitHub Stats"
+  width="650"
+/>
 
 </div>
 
