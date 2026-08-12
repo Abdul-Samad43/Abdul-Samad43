@@ -9,7 +9,7 @@ I build intelligent, scalable and production-focused AI applications using
 modern LLM frameworks, retrieval systems and autonomous agent workflows.
 
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=Abdul_Samad43&color=blue)
+
 ---
 
 ## 🧠 About Me
