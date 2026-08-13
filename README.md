@@ -1,15 +1,5 @@
-### AI Engineer focused on LLMs, RAG and Agentic Systems
-
-I build intelligent, scalable and production-focused AI applications using  
-modern LLM frameworks, retrieval systems and autonomous agent workflows.
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdul-Samad43&color=red&style=flat)
-
-</div>
+<div align="center">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+LLM+Developer;Building+Intelligent+AI+Agents;Developing+Production-Ready+RAG+Systems;LangChain+%7C+LangGraph+%7C+FastAPI)](https://git.io/typing-svg) ### AI Engineer focused on LLMs, RAG and Agentic Systems I build intelligent, scalable and production-focused AI applications using  modern LLM frameworks, retrieval systems and autonomous agent workflows.![Profile Views](https://komarev.com/ghpvc/?username=Abdul-Samad43&color=red&style=flat)
+</div> 
 ---
 
 ## 🧠 About Me
